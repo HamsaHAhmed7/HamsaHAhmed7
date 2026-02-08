@@ -8,7 +8,7 @@
 
 - **DevOps Engineer** building production-grade cloud infrastructure in London
 - Designing scalable AWS environments with Kubernetes, Terraform, and GitOps workflows
-- Automating everything—infrastructure provisioning, CI/CD pipelines, monitoring, and deployments
+- Automating infrastructure provisioning, CI/CD pipelines, monitoring, and deployments
 - Currently preparing for **CKA certification** and building portfolio projects that demonstrate real-world DevOps practices
 - Focused on reliability, observability, and infrastructure as code
 
